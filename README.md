@@ -42,8 +42,11 @@ This project demonstrates a complete **end‑to‑end data analytics pipeline** 
 ### 🚀 Revenue Segment Distribution  
 <img width="607" height="611" alt="image" src="https://github.com/user-attachments/assets/3397277a-dea8-4370-b989-4fd7928e62f1" />
 
-![Revenue Segment Chart](<img width="1200" height="1200" alt="revenue_segment_pie" src="https://github.com/user-attachments/assets/3fef13ad-a3e6-460b-83c7-a75397b941bf" />
-)
+### Jupyter Notebook
+<img width="1488" height="925" alt="Jupyter_Notebook" src="https://github.com/user-attachments/assets/e203b9a2-4a62-4def-9fa0-f56b58003e4b" />
+
+### Github Repo
+<img width="1163" height="502" alt="Github_repo" src="https://github.com/user-attachments/assets/e6c95cac-dc86-4a9c-8aaa-250f172057a9" />
 
 ---
 
